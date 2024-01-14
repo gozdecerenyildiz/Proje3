@@ -15,14 +15,14 @@
   <p align="center">
     An awesome modelling repository to jumpstart your classification  projects!
     <br />
-    <a href="https://github.com/busrasulukan/Project3_Classification"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gozdecerenyildiz/Proje3"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[[https://github.com/busrasulukan/Project3_Classification/tree/main/Web_Scraping](https://github.com/gozdecerenyildiz/Proje3/tree/main/SELEN%C4%B0UM)](https://github.com/gozdecerenyildiz/Proje3/tree/main/SELEN%C4%B0UM)">View WebScraping</a>
+    <a href="https://github.com/gozdecerenyildiz/Proje3/tree/main/SELEN%C4%B0UM">View WebScraping</a>
     ·
-    <a href="[https://github.com/gozdecerenyildiz/Proje3/tree/main/classification](https://github.com/gozdecerenyildiz/Proje3/tree/main/classification)">View Classification Modelling</a>
+    <a href="https://github.com/gozdecerenyildiz/Proje3/tree/main/classification">View Classification Modelling</a>
     ·
-    <a href="https://github.com/busrasulukan/FootballPositionPredict_EndtoEnd_Project">View this project's Api codes and CI/CD Process(End to End Project)</a>
+    <a href="">View this project's Api codes and CI/CD Process(End to End Project)</a>
   </p>
 </div>
 
