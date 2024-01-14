@@ -23,7 +23,7 @@
     ·
     <a href="https://github.com/gozdecerenyildiz/Proje3/tree/main/classification">View Classification Modelling</a>
     ·
-    <a href="">View this project's Api codes and CI/CD Process(End to End Project)</a>
+    <a href="https://github.com/gozdecerenyildiz/Predict_Modelling_EndtoEnd_Project">View this project's Api codes and CI/CD Process(End to End Project)</a>
   </p>
 </div>
 
